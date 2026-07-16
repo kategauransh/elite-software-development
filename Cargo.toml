@@ -1,0 +1,8 @@
+[package]
+name = "lock_free_ringbuffer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# CachePadded prevents false sharing on modern CPUs
+crossbeam-utils = "0.8"

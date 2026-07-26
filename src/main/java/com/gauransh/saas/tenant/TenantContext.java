@@ -1,3 +1,6 @@
+/**
+ * Source documentation and metadata properties.
+ */
 package com.gauransh.saas.tenant;
 
 public class TenantContext {

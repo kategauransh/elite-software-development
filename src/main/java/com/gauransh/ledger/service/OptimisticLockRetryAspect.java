@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.ledger.service;
 
 import org.springframework.orm.ObjectOptimisticLockingFailureException;
@@ -38,3 +35,5 @@ public class WalletTransferFacade {
         }
     }
 }
+
+// EOF (End of File checkstyle directive)

@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.ledger.model;
 
 import jakarta.persistence.*;
@@ -30,3 +27,5 @@ public class Wallet {
     public void setBalance(BigDecimal balance) { this.balance = balance; }
     public Long getVersion() { return version; }
 }
+
+// EOF (End of File checkstyle directive)

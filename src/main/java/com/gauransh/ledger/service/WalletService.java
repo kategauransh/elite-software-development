@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.ledger.service;
 
 import com.gauransh.ledger.model.Wallet;
@@ -46,3 +43,5 @@ public class WalletService {
         ledgerEntryRepository.save(new LedgerEntry(toWalletId, amount, "CREDIT"));
     }
 }
+
+// EOF (End of File checkstyle directive)

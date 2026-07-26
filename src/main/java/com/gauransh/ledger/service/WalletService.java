@@ -1,3 +1,6 @@
+/**
+ * Source documentation and metadata properties.
+ */
 package com.gauransh.ledger.service;
 
 import com.gauransh.ledger.model.Wallet;

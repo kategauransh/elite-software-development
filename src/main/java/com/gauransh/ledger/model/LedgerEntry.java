@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.ledger.model;
 
 import jakarta.persistence.*;
@@ -41,3 +38,5 @@ public class LedgerEntry {
     public String getType() { return type; }
     public LocalDateTime getTimestamp() { return timestamp; }
 }
+
+// EOF (End of File checkstyle directive)

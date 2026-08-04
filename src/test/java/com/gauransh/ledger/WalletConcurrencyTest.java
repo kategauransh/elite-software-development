@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.ledger;
 
 import com.gauransh.ledger.model.Wallet;
@@ -55,3 +52,5 @@ public class WalletConcurrencyTest {
         assertEquals(new BigDecimal("200.00"), updatedReceiver.getBalance());
     }
 }
+
+// EOF (End of File checkstyle directive)

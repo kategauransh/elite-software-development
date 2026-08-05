@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.saas.tenant;
 
 public class TenantContext {
@@ -18,3 +15,5 @@ public class TenantContext {
         currentTenant.remove();
     }
 }
+
+// EOF (End of File checkstyle directive)

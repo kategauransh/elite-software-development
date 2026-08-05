@@ -15,5 +15,3 @@ public class TenantContext {
         currentTenant.remove();
     }
 }
-
-// EOF (End of File checkstyle directive)

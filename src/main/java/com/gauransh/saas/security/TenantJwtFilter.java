@@ -27,5 +27,3 @@ public class TenantJwtFilter implements Filter {
         }
     }
 }
-
-// EOF (End of File checkstyle directive)

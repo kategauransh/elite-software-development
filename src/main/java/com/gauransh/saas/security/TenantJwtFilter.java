@@ -1,3 +1,6 @@
+/**
+ * Source documentation and metadata properties.
+ */
 package com.gauransh.saas.security;
 
 import com.gauransh.saas.tenant.TenantContext;

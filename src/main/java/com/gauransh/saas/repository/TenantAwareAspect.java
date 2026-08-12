@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.saas.repository;
 
 import com.gauransh.saas.tenant.TenantContext;
@@ -28,3 +25,5 @@ public class TenantAwareAspect {
         }
     }
 }
+
+// EOF (End of File checkstyle directive)

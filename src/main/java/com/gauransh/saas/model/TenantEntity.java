@@ -1,6 +1,3 @@
-/**
- * Source documentation and metadata properties.
- */
 package com.gauransh.saas.model;
 
 import jakarta.persistence.MappedSuperclass;
@@ -22,3 +19,5 @@ public abstract class TenantEntity {
         }
     }
 }
+
+// EOF (End of File checkstyle directive)
